@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Rider Offer Comparison</string>
+    <string name="login_subtitle">Independent earnings estimator &amp; offer analyzer. Not affiliated with any platform.</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_otp">Enter OTP (e.g. 1234)</string>
+    <string name="verify_continue">Verify &amp; Continue</string>
+    <string name="privacy_title">🔒 Privacy &amp; Data Safeguards</string>
+    <string name="privacy_desc">• Offer data stays strictly on your phone.\n• Zero customer names, phones, or addresses are ever read.\n• Requires Accessibility permission to read offer cards.</string>
+    <string name="app_active">App Active &amp; Reading</string>
+    <string name="app_paused">App Master OFF</string>
+    <string name="ready_eval">Ready to evaluate incoming offers</string>
+    <string name="reading_paused">Reading paused</string>
+    <string name="simulate_offer">Simulate Incoming Offer for</string>
+    <string name="live_feed">Live Offers Feed</string>
+    <string name="no_offers">No offers yet. Tap simulate or open platform app.</string>
+    <string name="gross_earning">Gross Earning</string>
+    <string name="net_earning">Net Earning</string>
+    <string name="pickup">Pickup</string>
+    <string name="trip">Trip</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="language_label">Language / भाषा</string>
+</resources>

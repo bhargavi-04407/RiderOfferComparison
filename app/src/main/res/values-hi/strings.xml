@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">राइडर ऑफर तुलना</string>
+    <string name="login_subtitle">स्वतंत्र कमाई अनुमानक और ऑफर विश्लेषक। किसी भी प्लेटफॉर्म से संबद्ध नहीं।</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="get_otp">OTP प्राप्त करें</string>
+    <string name="enter_otp">OTP दर्ज करें (उदा. 1234)</string>
+    <string name="verify_continue">सत्यापित करें और आगे बढ़ें</string>
+    <string name="privacy_title">🔒 गोपनीयता और डेटा सुरक्षा</string>
+    <string name="privacy_desc">• ऑफर डेटा कड़ाई से आपके फोन पर रहता है।\n• किसी भी ग्राहक का नाम, फोन या पता कभी नहीं पढ़ा जाता है।\n• ऑफर कार्ड पढ़ने के लिए एक्सेसिबिलिटी अनुमति की आवश्यकता होती है।</string>
+    <string name="app_active">ऐप सक्रिय और पढ़ रहा है</string>
+    <string name="app_paused">ऐप मास्टर बंद</string>
+    <string name="ready_eval">आने वाले ऑफर्स का मूल्यांकन करने के लिए तैयार</string>
+    <string name="reading_paused">पढ़ना रोका गया</string>
+    <string name="simulate_offer">के लिए इनकमिंग ऑफर सिमुलेट करें</string>
+    <string name="live_feed">लाइव ऑफर्स फीड</string>
+    <string name="no_offers">अभी तक कोई ऑफर नहीं। सिम्युलेट टैप करें या प्लेटफॉर्म ऐप खोलें।</string>
+    <string name="gross_earning">सकल कमाई</string>
+    <string name="net_earning">शुद्ध कमाई</string>
+    <string name="pickup">पिकअप</string>
+    <string name="trip">ट्रिप</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="save_settings">सेटिंग्स सहेजें</string>
+    <string name="language_label">Language / भाषा</string>
+</resources>
