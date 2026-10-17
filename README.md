@@ -47,8 +47,7 @@ $$\text{Net ₹/hour} = \frac{\text{Net Earning}}{t_{\text{pickup}} + t_{\text{t
 ## The One-Page Plan (Milestones & Risks)
 
 ### Milestones
-1. **Milestone 1:** Live Firebase Phone Authentication integration (replacing the current mock OTP login flow).
-2. **Milestone 2:** Background Service Optimization for battery efficiency (<5% drain over 4 hours of active session) and adding the daily summary per app (offers seen, share rated Good, average estimated ₹/hour).
+1. **Milestone 1:** Background Service Optimization for battery efficiency (<5% drain over 4 hours of active session) and adding the daily summary per app (offers seen, share rated Good, average estimated ₹/hour).
 
 ### Key Risks & Mitigations
 - **UI DOM Obfuscation / Platform Updates:** Ride platforms frequently update their user interfaces and view hierarchies, which can break screen parsing.
